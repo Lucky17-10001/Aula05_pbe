@@ -1,0 +1,18 @@
+{
+  "name": "aula05",
+  "version": "1.0.0",
+  "description": "Gerenciamento de Inventario",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Lucky17-10001",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {}
+}
